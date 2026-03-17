@@ -1,196 +1,227 @@
-# Sentinel-Globe
-Sentinel Globe 🌍
-AI-Powered Global Intelligence Platform
+# Sentinel Globe 🌍
 
-Sentinel Globe is an interactive intelligence visualization platform designed to monitor global instability, geopolitical conflicts, cyber threats, and strategic events in real time.
+### Global Intelligence Platform
 
-The platform combines geopolitical monitoring, cyber intelligence overlays, and predictive instability analytics to create a unified command interface for analyzing global risk.
+Sentinel Globe is an interactive intelligence visualization platform designed to monitor global instability, geopolitical conflicts, cyber threats, and strategic events in a unified command interface.
 
-Sentinel Globe explores how modern intelligence systems could visualize complex world events through an interactive globe, layered data overlays, and AI-assisted strategic insights.
+The platform combines **geopolitical monitoring, cyber intelligence overlays, predictive instability analytics, and satellite-style global visualization** to demonstrate how modern intelligence systems could monitor global activity.
 
-Platform Overview
+Sentinel Globe explores how complex geopolitical and security data can be visualized through a **layered interactive globe, intelligence dashboards, and real-time event monitoring.**
 
-Sentinel Globe provides a global monitoring console where users can explore:
+---
 
-• Active conflicts and military tensions
-• Global instability indicators
-• Cyber threat activity
-• Political and economic disruptions
-• Humanitarian crisis zones
-• Strategic event intelligence feeds
+# **Platform Overview**
 
-The platform integrates multiple intelligence layers into a single visualization system.
+Sentinel Globe provides a centralized monitoring system where users can explore:
 
-Core Features
-🌍 Interactive Intelligence Globe
+- Global conflict zones
+- Military tensions and armed conflicts
+- Cyber threat activity
+- Political instability signals
+- Economic disruptions
+- Humanitarian crisis regions
+- Global strategic events
 
-A real-time global visualization showing conflict zones, escalation hotspots, and strategic activity.
+The platform integrates multiple intelligence layers into a single visualization environment.
 
-Users can rotate the globe and explore instability regions across different geographic areas.
+---
 
-📊 Global Instability Engine
+# **Core Features**
 
-Sentinel Globe introduces a Global Instability Engine (GIE) that analyzes multiple indicators to determine global risk levels.
+### **Interactive Intelligence Globe**
 
-Indicators include:
+A fully interactive global visualization displaying geopolitical activity, instability hotspots, and strategic event markers.
 
-Military activity
+Users can rotate the globe and explore global regions experiencing instability or conflict.
 
-Political instability
+---
 
-Cyber attacks
+### **Global Instability Engine**
 
-Economic disruptions
+Sentinel Globe includes a **Global Instability Engine (GIE)** that analyzes multiple global indicators to calculate a real-time instability score.
 
-Humanitarian crises
+Indicators analyzed include:
 
-The system produces a Global Instability Index and regional risk assessments.
+- Military conflict activity
+- Political instability
+- Cyber attacks
+- Economic disruptions
+- Humanitarian crises
 
-🚨 Global Event Feed
+The system produces a **Global Instability Index** along with regional risk indicators.
 
-A live event feed displays major geopolitical developments and security incidents including:
+---
 
-Military operations
+### **Global Event Feed**
 
-Missile strikes
+A real-time intelligence feed displays major global developments such as:
 
-Cyber attacks
+- Military operations
+- Missile strikes
+- Cyber incidents
+- Diplomatic tensions
+- Humanitarian emergencies
 
-Diplomatic tensions
+Events are synchronized with markers on the globe to provide visual context.
 
-humanitarian emergencies
+---
 
-Events are synchronized with globe markers for visual context.
+### **Layered Intelligence System**
 
-🛰 Layered Intelligence System
-
-Users can toggle multiple intelligence layers to visualize different types of global activity.
+Sentinel Globe allows users to toggle multiple intelligence layers to explore different types of global activity.
 
 Available layers include:
 
-Military Layers
+**Military Layers**
 
-Military bases
+- Military bases
+- Naval assets
+- Armed conflicts
+- Escalating tensions
 
-Naval assets
+**Cyber Intelligence**
 
-Armed conflicts
+- Cyber attack indicators
+- Infrastructure breaches
+- Ransomware activity
+- Nation-state cyber operations
 
-Cyber Intelligence
+**Political Indicators**
 
-cyber incidents
+- Diplomatic crises
+- Election instability
+- Sanction zones
+- Government unrest
 
-infrastructure attacks
+**Economic Signals**
 
-ransomware activity
+- Trade disruptions
+- Energy instability
+- Supply chain pressure
+- Economic crisis indicators
 
-Political Indicators
+**Humanitarian Indicators**
 
-diplomatic crises
-
-regime instability
-
-sanctions zones
-
-Economic Signals
-
-trade disruptions
-
-energy instability
-
-supply chain pressure
-
-Humanitarian Indicators
-
-refugee crises
-
-famine risk
-
-disaster relief zones
+- Refugee movements
+- Famine risk zones
+- Disaster response regions
+- Humanitarian crisis hotspots
 
 Each layer dynamically updates the globe visualization.
 
-📈 Strategic Event Analytics
+---
 
-The platform tracks event trends through activity charts showing escalation patterns across time.
+### **Strategic Event Analytics**
 
-Users can explore conflict development across historical timelines.
+The platform tracks event activity through historical charts and trend analysis.
 
-🛰 Orbital Intelligence Mode
+Users can observe how geopolitical instability evolves across time.
 
-Sentinel Globe includes a conceptual orbital intelligence layer where satellites simulate global monitoring capabilities.
+---
 
-Satellite overlays visualize:
+### **Orbital Intelligence View**
 
-reconnaissance coverage
+Sentinel Globe includes a conceptual **Orbital Intelligence Mode** that simulates satellite monitoring coverage.
 
-signal monitoring
+This layer visualizes:
 
-intelligence scanning across global regions
+- reconnaissance satellites
+- global monitoring zones
+- intelligence scanning activity
 
-This mode demonstrates how space-based monitoring systems could integrate into geopolitical intelligence platforms.
+The feature demonstrates how satellite data could integrate into a global intelligence platform.
 
-Example Use Cases
+---
+
+# **Example Use Cases**
 
 Sentinel Globe can be used to explore scenarios such as:
 
-monitoring geopolitical escalation
+- monitoring global geopolitical instability
+- analyzing conflict escalation patterns
+- visualizing cyber threat distribution
+- observing humanitarian crises
+- tracking military developments
+- exploring global strategic risk patterns
 
-visualizing conflict zones
+The platform demonstrates how intelligence analysts could interact with complex global data through visual systems.
 
-analyzing global instability patterns
+---
 
-exploring cyber threat distribution
-
-tracking humanitarian crises
-
-observing strategic military developments
-
-The platform demonstrates how intelligence analysts could interact with complex global datasets through visual systems.
-
-Technologies / Concepts
+# **Technologies / Concepts**
 
 Sentinel Globe demonstrates concepts used in modern intelligence platforms:
 
-data visualization
+- geospatial data visualization
+- interactive dashboards
+- layered intelligence overlays
+- predictive analytics concepts
+- strategic risk modeling
+- global monitoring systems
 
-interactive geospatial interfaces
+---
 
-layered intelligence overlays
+# **Screenshots**
 
-predictive analytics concepts
+**Global Intelligence Dashboard**
 
-strategic risk modeling
+The primary Sentinel Globe command interface showing the interactive globe, instability indicators, and real-time event monitoring.
 
-Project Purpose
+![Sentinel Globe Dashboard](./screenshots/sentinel-globe-dashboard.png)
 
-This project explores how modern dashboards can evolve into intelligence platforms capable of integrating geopolitical, cyber, and economic signals into a single operational interface.
 
-Sentinel Globe is designed as a concept platform for global intelligence visualization and strategic monitoring.
+**Global Instability Engine**
 
-Screenshots
-Sentinel Globe – Intelligence Command Interface
+The Global Instability Engine analyzes geopolitical, military, cyber, and economic signals to calculate a real-time global instability index.
 
-Future Enhancements
+![Global Instability Engine](./screenshots/instability-engine.png)
+
+
+**Military Intelligence Layer**
+
+Displays global military infrastructure including bases, naval assets, and active conflict zones.
+
+![Military Intelligence Layer](./screenshots/military-layer.png)
+
+
+**Cyber Intelligence Layer**
+
+Visualizes cyber activity including digital attack nodes, infrastructure breaches, and cyber operations.
+
+![Cyber Intelligence Layer](./screenshots/cyber-layer.png)
+
+
+**Orbital Intelligence View**
+
+Simulated satellite monitoring layer representing reconnaissance coverage and orbital intelligence scanning across global regions.
+
+![Orbital Intelligence View](./screenshots/orbital-mode.png)
+
+---
+
+# **Future Enhancements**
 
 Planned improvements include:
 
-predictive conflict modeling
+- predictive conflict modeling
+- cyber warfare visualization layers
+- AI strategic intelligence briefs
+- advanced geopolitical forecasting
+- real-time intelligence data integration
+- expanded satellite monitoring systems
 
-cyber warfare visualization layers
+---
 
-advanced geopolitical forecasting
+# **Project Purpose**
 
-automated intelligence brief generation
+This project explores how modern monitoring dashboards could evolve into **intelligence platforms capable of integrating geopolitical, cyber, and economic signals into a unified operational interface.**
 
-satellite monitoring expansion
+Sentinel Globe is designed as a **concept platform for global intelligence visualization and strategic monitoring.**
 
-real-time intelligence data integration
+---
 
-License
+# **Author**
 
-This project is intended for educational and demonstration purposes.
+Developed as part of an exploration into global intelligence visualization, cybersecurity awareness, and strategic monitoring systems.
 
-Author
-
-Developed as part of an exploration into global intelligence visualization, cybersecurity awareness, and strategic data platforms.
+---
